@@ -32,3 +32,5 @@ Command | Description
 --- | ---
 `??help` | Display a help message with usage instructions.
 `??announce <on/off>` | Turn on/off plug.game announcements for the channel, requires `Manage Channel` permissions.
+
+## Test
